@@ -5,7 +5,7 @@ categories: [C++备忘录]
 tags: [C++备忘录]
 ---
 
-``` ruby
+``` 
 #incluce <iostream>
 int main()
 {
