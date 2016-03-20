@@ -1,0 +1,17 @@
+---
+title:  "C++基础之面向对象(一)"
+date:   2016-01-08 15:04:23
+categories: [C++备忘录]
+tags: [C++备忘录]
+---
+
+``` ruby
+#incluce <iostream>
+int main()
+{
+	std::cout<<"hello world"<<std::endl;
+	return 0;
+}
+```
+
+
